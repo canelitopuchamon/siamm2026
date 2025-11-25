@@ -19,6 +19,7 @@ async function init() {
     loadComponent('about', 'components/about.html'),
     loadComponent('committee', 'components/committee.html'),
     loadComponent('event', 'components/event.html'),
+    loadComponent('schedule', 'components/schedule.html'),
     loadComponent('location', 'components/location.html'),
     loadComponent('sponsors', 'components/sponsors.html'),
     loadComponent('footer', 'components/footer.html'),
