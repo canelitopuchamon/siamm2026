@@ -21,6 +21,7 @@ async function init() {
     loadComponent('event', 'components/event.html'),
     loadComponent('speakers', 'components/speakers.html'),
     loadComponent('register', 'components/register.html'),
+    loadComponent('faq', 'components/faq.html'),
     loadComponent('schedule', 'components/schedule.html'),
     loadComponent('location', 'components/location.html'),
     loadComponent('sponsors', 'components/sponsors.html'),
